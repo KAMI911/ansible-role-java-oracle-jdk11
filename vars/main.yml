@@ -7,7 +7,8 @@ java_download_filename: '{{ java_type }}-{{ java_version }}_{{ java_platform }}_
 java_download_url: '{{ java_download_base_url }}/{{ java_version }}+{{ java_build }}/{{ java_download_code }}/{{ java_download_filename }}'
 # http://download.oracle.com/otn-pub/java/jdk/11+28/55eed80b163941c8885ad9298e6d786a/jdk-11_linux-x64_bin.tar.gz
 
-java_folder: '{{ java_usr_folder }}/jdk-{{ java_version }}.0.{{ java_update }}'
+# java_folder: '{{ java_usr_folder }}/jdk-{{ java_version }}.0.{{ java_update }}'
+java_folder: '{{ java_usr_folder }}/jdk-{{ java_version }}
 java_archive: '{{ java_usr_folder }}/{{ java_download_filename }}'
 
 java_security_folder: '{{ java_folder }}/lib/security'
