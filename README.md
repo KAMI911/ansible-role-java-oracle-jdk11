@@ -50,7 +50,7 @@ Java micro version.
 
 Java platform to install.
 
-    java_bins: [ 'javah', 'javap', 'jmap', 'extcheck', 'pack200', 'jrunscript', 'jinfo', 'jcontrol', 'jmc', 'keytool', 'schemagen', 'jjs', 'jvisualvm', 'policytool', 'rmid', 'wsgen', 'javaws', 'javadoc
+    java_bins: [ 'javah', 'javap', 'jmap', 'extcheck', 'pack200', 'jrunscript', 'jinfo', 'keytool', 'jjs', 'jvisualvm', 'policytool', 'rmid', 'javadoc
 
 Update alternatives on these binaries.
 
