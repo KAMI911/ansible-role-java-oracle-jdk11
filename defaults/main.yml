@@ -15,12 +15,17 @@ java_bins_priority: 9
 java_bins_update: true
 
 java_type: jdk
-
-# JDK 11.0.28
+# JDK 11.0.1+13
 java_version: 11
-java_update: 0
-java_build: '28'
-java_download_code: '55eed80b163941c8885ad9298e6d786a'
+java_update: 1
+java_build: '13'
+java_download_code: '90cf5d8f270a4347a95050320eef3fb7'
+
+# JDK 11.+28
+# java_version: 11
+# java_update: 0
+# java_build: '28'
+# java_download_code: '55eed80b163941c8885ad9298e6d786a'
 
 java_platform: linux-x64
 
