@@ -12,7 +12,7 @@
     mode: 0775
     owner: root
     group: root
-  when: not java_installed.stat.exists force_java_install
+  when: not java_installed.stat.exists or force_java_install
 
 - name: is already downloaded locally
   become: false
