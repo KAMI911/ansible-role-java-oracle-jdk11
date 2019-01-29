@@ -15,6 +15,13 @@ java_bins_priority: 9
 java_bins_update: true
 
 java_type: jdk
+
+# JDK 11.0.2+9
+java_version: 11
+java_update: 2
+java_build: '9'
+java_download_code: 'f51449fcd52f4d52b93a989c5c56ed3c'
+
 # JDK 11.0.1+13
 java_version: 11
 java_update: 1
