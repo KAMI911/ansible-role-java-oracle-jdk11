@@ -23,10 +23,10 @@ java_build: '9'
 java_download_code: 'f51449fcd52f4d52b93a989c5c56ed3c'
 
 # JDK 11.0.1+13
-java_version: 11
-java_update: 1
-java_build: '13'
-java_download_code: '90cf5d8f270a4347a95050320eef3fb7'
+# java_version: 11
+# java_update: 1
+# java_build: '13'
+# java_download_code: '90cf5d8f270a4347a95050320eef3fb7'
 
 # JDK 11.+28
 # java_version: 11
