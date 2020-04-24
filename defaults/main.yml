@@ -16,11 +16,17 @@ java_bins_update: true
 
 java_type: jdk
 
-# JDK 11.0.4+10
+# JDK 11.0.7+8
 java_version: 11
-java_update: 4
-java_build: '10'
-java_download_code: 'cf1bbcbf431a474eb9fc550051f4ee78'
+java_update: 7
+java_build: '8'
+java_download_code: '8c7daf89330c48f0b9e32f57169f7bac'
+
+# JDK 11.0.4+10
+# java_version: 11
+# java_update: 4
+# java_build: '10'
+# java_download_code: 'cf1bbcbf431a474eb9fc550051f4ee78'
 
 # JDK 11.0.2+9
 # java_version: 11
